@@ -1,0 +1,8 @@
+.cache
+.idea
+build
+cmake.build
+include
+.clangd
+compile_commands.json
+CMakeList.txt
